@@ -1,0 +1,13 @@
+﻿id_maquina,codigo,descricao,modelo,categoria,ano_fabricacao,status_cadastro
+1,NR-001,Retroescavadeira JCB 3CX,JCB 3CX (fictício),Retroescavadeira,2022,Ativa
+2,NR-002,Escavadeira Hidráulica 20 t,20 toneladas (fictício),Escavadeira hidraulica,2021,Ativa
+3,NR-003,Mini Escavadeira 3 t,3 toneladas (fictício),Mini escavadeira,2023,Ativa
+4,NR-004,Pá Carregadeira 12 t,12 toneladas (fictício),Pa carregadeira,2022,Ativa
+5,NR-005,Rolo Compactador Liso,Liso (fictício),Rolo compactador,2020,Ativa
+6,NR-006,Motoniveladora 140 HP,140 HP (fictício),Motoniveladora,2021,Ativa
+7,NR-007,Trator de Esteiras D6,D6 (fictício),Trator de esteiras,2019,Ativa
+8,NR-008,Mini Carregadeira 75 HP,75 HP (fictício),Mini carregadeira,2023,Ativa
+9,NR-009,Caminhão Basculante 6x4,6x4 (fictício),Caminhao basculante,2020,Ativa
+10,NR-010,Rolo Compactador Pé de Carneiro,Pé de Carneiro (fictício),Rolo compactador,2022,Ativa
+11,NR-011,Escavadeira Hidráulica 13 t,13 toneladas (fictício),Escavadeira hidraulica,2023,Ativa
+12,NR-012,Manipulador Telescópico 4 t,4 toneladas (fictício),Manipulador telescopico,2024,Ativa
